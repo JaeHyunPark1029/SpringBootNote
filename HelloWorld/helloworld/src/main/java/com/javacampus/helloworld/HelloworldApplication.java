@@ -11,7 +11,7 @@ public class HelloworldApplication {
 
 	@GetMapping(value="/")
 	public String index() {
-		return "Hello World with Spring Boot";
+		return "Hello World with Spring Boot2";
 	}
 
 	public static void main(String[] args) {
